@@ -1,0 +1,31 @@
+Tm,R,RA,W,L
+Arizona Diamondbacks,449,617,34,74
+Atlanta Braves,509,455,53,54
+Baltimore Orioles,440,583,38,68
+Boston Red Sox,532,486,63,45
+Chicago Cubs,457,495,51,57
+Chicago White Sox,530,412,63,44
+Cincinnati Reds,526,527,56,51
+Cleveland Indians,448,480,52,52
+Colorado Rockies,472,522,47,60
+Detroit Tigers,481,529,52,57
+Houston Astros,583,431,65,42
+Kansas City Royals,429,527,45,60
+Los Angeles Angels,502,540,53,54
+Los Angeles Dodgers,560,398,64,44
+Miami Marlins,420,418,46,61
+Milwaukee Brewers,490,401,64,44
+Minnesota Twins,497,570,45,62
+New York Mets,404,415,55,51
+New York Yankees,439,433,57,49
+Oakland Athletics,470,425,60,48
+Philadelphia Phillies,490,507,54,53
+Pittsburgh Pirates,394,545,41,66
+San Diego Padres,523,423,62,47
+Seattle Mariners,460,508,58,50
+San Francisco Giants,522,402,67,40
+St. Louis Cardinals,423,465,53,53
+Tampa Bay Rays,535,431,64,44
+Texas Rangers,412,531,39,68
+Toronto Blue Jays,537,428,55,49
+Washington Nationals,469,499,49,58
