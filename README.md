@@ -6,7 +6,7 @@ basically:
 
         runs_scored^2
        -------------                =  estimate % of games won
-runs_scored^2 + runs_allowed^2
+        runs_scored^2 + runs_allowed^2
 
 or
 
